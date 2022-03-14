@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tony
+- 👋 Hi, I’m @Anthony De Dios
 - 👀 I’m interested in coding and setting things on fire lol
 - 🌱 I’m currently learning Node.js, Express, TypeScript, SpringBoot and Java.
 
